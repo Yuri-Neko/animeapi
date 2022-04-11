@@ -31,6 +31,6 @@
     "grunt": "^1.5.1",
     "grunt-contrib-jshint": "^3.2.0",
     "grunt-contrib-nodeunit": "^1.0.0",
-    "request": "^2.71.0"
+    "request": "^2.88.2"
   }
 }
